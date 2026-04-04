@@ -1,3 +1,6 @@
+// Render Lucide icons
+lucide.createIcons();
+
 // Lightbox for gallery images
 (function () {
   const lightbox = document.getElementById('lightbox');

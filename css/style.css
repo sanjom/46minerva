@@ -322,8 +322,11 @@ img {
 }
 
 .amenity-icon {
-  font-size: 1rem;
+  width: 1rem;
+  height: 1rem;
   flex-shrink: 0;
+  stroke: var(--forest);
+  stroke-width: 1.75;
 }
 
 /* ============================================================
