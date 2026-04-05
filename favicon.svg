@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#2d5c3e"/>
+  <!-- leaf: two curves meeting at tip and base, matching the Lucide leaf style -->
+  <path d="M23 7 C23 7 23 23 9 25 M23 7 C23 7 9 9 9 25"
+        fill="none" stroke="white" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- stem -->
+  <line x1="9" y1="25" x2="7" y2="28" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
